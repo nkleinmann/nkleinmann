@@ -2,8 +2,8 @@
 
 Welcome to my GitHub profile! My name is Nicole Kleinmann. Check out the links below :point_down:
 
-(Linkedin)[https://www.linkedin.com/in/nicolekleinmann/]
-(Porftfolio)[https://nkleinmann.github.io/]
+[Linkedin](https://www.linkedin.com/in/nicolekleinmann/)
+[Porftfolio](https://nkleinmann.github.io/)
 
 
 
