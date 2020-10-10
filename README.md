@@ -1,6 +1,6 @@
 ### Hi 👋
 
-Welcome to my GitHub profile! My name is Nicole Kleinmann. Check out the links below :point_down:
+Welcome to my GitHub profile! Check out the links below :point_down:
 
 [Linkedin](https://www.linkedin.com/in/nicolekleinmann/)
 
