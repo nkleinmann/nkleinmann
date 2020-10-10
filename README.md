@@ -6,7 +6,7 @@ Welcome to my GitHub profile! Check out the links below :point_down:
 
 [Porftfolio](https://nkleinmann.github.io/)
 
-Please contact me with any questions or ideas.
+I'm currently in a coding bootcamp for full stack web development. Please contact me with any questions or ideas for collaboration 😄
 
 <!--
 **nkleinmann/nkleinmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
