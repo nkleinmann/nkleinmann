@@ -1,12 +1,11 @@
 ### Hi 👋
 
-Welcome to my GitHub profile! Check out the links below :point_down:
+Welcome to my GitHub profile! Currently in a coding bootcamp for full stack web development. Please contact me with any questions or ideas for collaboration 😄 Check out the links below :point_down:
 
 [Linkedin](https://www.linkedin.com/in/nicolekleinmann/)
 
 [Porftfolio](https://nkleinmann.github.io/)
 
-Currently in a coding bootcamp for full stack web development. Please contact me with any questions or ideas for collaboration 😄
 
 <!--
 **nkleinmann/nkleinmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
