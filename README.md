@@ -1,12 +1,12 @@
 ### Hi 👋
 
-Welcome to my GitHub profile! I'm currently in a coding bootcamp for full stack web development. Please contact me with any questions or ideas for collaboration 😄 Check out the links below :point_down:
+Welcome to my GitHub profile! I'm currently in a coding bootcamp for full stack web development. Please contact me with any questions 😄 Check out the links below :point_down:
 
 [Linkedin](https://www.linkedin.com/in/nicolekleinmann/)
 
 [Porftfolio](https://nkleinmann.github.io/)
 
-🌱 I’m currently learning React and looking for projects to collaborate on.
+🌱 I’m currently learning React and looking for projects to start collaborating on.
 
 
 <!--
