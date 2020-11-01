@@ -6,6 +6,8 @@ Welcome to my GitHub profile! I'm currently in a coding bootcamp for full stack 
 
 [Porftfolio](https://nkleinmann.github.io/)
 
+🌱 I’m currently learning React and looking for projects to collaborate on.
+
 
 <!--
 **nkleinmann/nkleinmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
