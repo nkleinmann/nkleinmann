@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I recently completed a coding bootcamp for full st
 
 [Linkedin](https://www.linkedin.com/in/nicolekleinmann/)
 
-[Porftfolio](https://nkleinmann.github.io/)
+[Porftfolio](https://www.nicolekleinmann.com)
 
 🌱 I’m currently learning React and looking for projects to start collaborating on.
 
