@@ -1,13 +1,12 @@
 ### Hi 👋
 
-Welcome to my GitHub profile! I recently completed a coding bootcamp for full stack web development. Please contact me with any questions 😄 Check out the links below :point_down:
+Welcome to my GitHub profile! I recently completed a coding bootcamp for full stack web development and am currently working on projects to continue learning JavaScript and React. 
 ![Intro banner](https://user-images.githubusercontent.com/65608809/111404886-ec78d600-86a5-11eb-9eb7-eab827a485c5.jpg)
+Please contact me with any questions 😄 Check out the links below :point_down:
 
 [Linkedin](https://www.linkedin.com/in/nicolekleinmann/)
 
 [Porftfolio](https://www.nicolekleinmann.com)
-
-🌱 I’m currently learning React and looking for projects to start collaborating on.
 
 
 <!--
