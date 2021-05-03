@@ -1,7 +1,7 @@
 ![Intro banner](https://user-images.githubusercontent.com/65608809/116837037-ceecc680-ab96-11eb-8444-646d8d03aa7f.jpg)
 ### Hi 👋
-Welcome to my GitHub profile! I recently completed a coding bootcamp for full stack web development and am currently working on projects to continue learning JavaScript and React. 
-Please contact me with any questions 😄 or ideas for collaboration. Check out the links below :point_down:
+Welcome to my GitHub profile! Recently completed a coding bootcamp in full stack web development and am currently working on projects to continue learning JavaScript and React. 
+Please contact me with any questions or ideas for collaboration! 📫 
 
 [Linkedin](https://www.linkedin.com/in/nicolekleinmann/)
 
