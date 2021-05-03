@@ -1,4 +1,4 @@
-![Intro banner](https://user-images.githubusercontent.com/65608809/116836769-d52e7300-ab95-11eb-92c8-9288ea42c80e.jpg)
+![Intro banner](https://user-images.githubusercontent.com/65608809/116837037-ceecc680-ab96-11eb-8444-646d8d03aa7f.jpg)
 ### Hi 👋
 Welcome to my GitHub profile! I recently completed a coding bootcamp for full stack web development and am currently working on projects to continue learning JavaScript and React. 
 Please contact me with any questions 😄 or ideas for collaboration. Check out the links below :point_down:
