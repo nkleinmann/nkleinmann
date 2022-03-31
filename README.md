@@ -1,4 +1,4 @@
-![Intro banner](![image](https://user-images.githubusercontent.com/65608809/161104088-2833f890-1c12-49bd-98ed-a2facb554fb4.png))
+![Intro banner](https://user-images.githubusercontent.com/65608809/161104465-5e3f1cc3-43ad-48a2-97ab-afbe20f8fdfa.jpg)
 ### Hi 👋
 Welcome to my GitHub profile! Please contact me with any questions or ideas for collaboration! 📫 
 
