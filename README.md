@@ -1,6 +1,6 @@
 ![Intro banner](https://user-images.githubusercontent.com/65608809/161104465-5e3f1cc3-43ad-48a2-97ab-afbe20f8fdfa.jpg)
 ### Hi 👋
-Welcome to my GitHub profile! Please contact me with any questions or ideas for collaboration! 📫 
+Please contact me with any questions or ideas for collaboration! 📫 
 
 [Linkedin](https://www.linkedin.com/in/nicolekleinmann/)
 
