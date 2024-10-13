@@ -4,7 +4,7 @@ Please contact me with any questions or ideas for collaboration! 📫
 
 [Linkedin](https://www.linkedin.com/in/nicolekleinmann/)
 
-[Porftfolio](https://www.nicolekleinmann.com)
+[Portfolio](https://www.nicolekleinmann.com)
 
 
 <!--
