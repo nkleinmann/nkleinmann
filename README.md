@@ -1,5 +1,10 @@
 ### Hi 👋
-Please contact me with any questions or ideas for collaboration! 📫 
+
+I'm a Software Developer with a background in computer science and math education. Currently working with JavaScript, React, TypeScript, NodeJS, C#, and AWS. Passionate about making applications enjoyable for every user. I have experience as a scrum master and increasing collaboration and processes on a team. I enjoy learning something new every day.
+
+### Contact 📫 
+
+Please contact me with any questions or ideas for collaboration! 
 
 [Linkedin](https://www.linkedin.com/in/nicolekleinmann/)
 
