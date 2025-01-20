@@ -1,4 +1,5 @@
-![Intro banner](https://user-images.githubusercontent.com/65608809/161104465-5e3f1cc3-43ad-48a2-97ab-afbe20f8fdfa.jpg)
+![Screenshot 2025-01-20 at 4 20 00 PM](https://github.com/user-attachments/assets/155b1e9d-1888-4374-a9ed-8b5c835442d3)
+8a2-97ab-afbe20f8fdfa.jpg)
 ### Hi 👋
 Please contact me with any questions or ideas for collaboration! 📫 
 
